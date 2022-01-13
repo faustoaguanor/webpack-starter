@@ -1,0 +1,9 @@
+html,
+body {
+  margin: 0;
+  background-color: rgb(235, 230, 230);
+}
+
+img {
+  width: 150px;
+}
